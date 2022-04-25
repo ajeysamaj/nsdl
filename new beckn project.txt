@@ -1,0 +1,15 @@
+Project Name ---    admin-tool-ui
+			admin-tool-java
+
+
+Search request from buyer to Gateway
+for this case buyer_id is present and seller_id is not present and action is search
+
+
+Search request from Gateway to Seller
+for this case 
+
+
+
+on_Search request from Seller to Gateway
+for this case buyer_id is present and seller_id is present and action is on_search
